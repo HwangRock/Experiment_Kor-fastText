@@ -1,5 +1,5 @@
 # Experiment_Kor-fastText  
-
+---
 한국어 fastText를 fine tuning 시켜서 유사도를 높이거나, 경량화를 시켜보는 레포지토리입니다.  
 아래의 링크에서 한국어 fastText를 받을 수 있습니다.  
 https://fasttext.cc/docs/en/crawl-vectors.html
